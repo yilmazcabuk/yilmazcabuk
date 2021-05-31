@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ylmzcbk
-- 👀 I’m interested in C# and Python
+- 👋 Hi, I’m Yılmaz
+- 👀 I’m interested in C#, Python & Kotlin
 - 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on learning new languages
+- 📫 How to reach me yilmaz_cabuk1@hotmail.com
 
 <!---
 ylmzcbk/ylmzcbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
