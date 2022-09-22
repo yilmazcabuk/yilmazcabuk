@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Yılmaz
-- 👀 I’m interested in C#, Python & Kotlin
-- 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on learning new languages
+- 👀 I’m interested in Web Development and AI
 - 📫 How to reach me yilmaz_cabuk1@hotmail.com
 
 <!---
