@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yilmazcabuk](https://github.com/yilmazcabuk)
 
-- 💬 Ask me about **OOP | Software Architecture | React | Next.js**
+- 💬 Ask me about **OOP | Software Architecture | Web Technologies**
 
 - 📫 How to reach me **yilmazcabuk@protonmail.com**
 
